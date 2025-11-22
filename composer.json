@@ -1,0 +1,14 @@
+{
+  "name": "erpproject/user-module",
+  "description": "User Module for ERP API",
+  "type": "yii2-extension",
+  "autoload": {
+    "psr-4": {
+      "erpproject\\usermodule\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  }
+}
