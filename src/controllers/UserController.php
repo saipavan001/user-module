@@ -1,5 +1,5 @@
 <?php
-namespace erpproject\usermodule\controllers;
+namespace saipavan001\userModule\controllers;
 
 use yii\web\Controller;
 
